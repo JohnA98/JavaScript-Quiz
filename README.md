@@ -20,3 +20,4 @@ https://www.w3schools.com/js/js_quiz.asp
 
 Please refer to the LICENSE in the repo.
 
+<img width="1712" alt="High-Score" src="https://github.com/JohnA98/JavaScript-Quiz/assets/111317228/c349ae7c-a00d-41b3-9d17-5b4bf81cb786">
