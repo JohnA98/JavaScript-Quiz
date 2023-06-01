@@ -6,11 +6,23 @@ This website has a mini JavaScript quiz as its main focus. After clicking the st
 
 ## Installation
 
+
 N/A
 
 ## Usage
 
-To use this website, simply click the start game button.(JavaScript-Quiz/assets/images/Page-Entry.png) From there, you will be met with a series of questions in which you have 60 seconds to answer. (JavaScript-Quiz/assets/images/Quiz-Question.png) Each question you get wrong, it subtracts 15 seconds off of the timer before going on to the next question. Finally, after answering all the questions or if the timer runs out, you are shown your score and prompted to enter your initials. (JavaScript-Quiz/assets/images/Game-End.png) After you input your initials, the highest score player that played in the browser has their initials and their score displayed.(JavaScript-Quiz/assets/images/High-Score.png) From there, the user can choose to play again
+
+To use this website, simply click the start game button.
+<img width="1714" alt="Page-Entry" src="https://github.com/JohnA98/JavaScript-Quiz/assets/111317228/363dc5af-9dc2-4067-8b87-a1b529388b22">
+
+From there, you will be met with a series of questions in which you have 60 seconds to answer. 
+<img width="1714" alt="Quiz-Question" src="https://github.com/JohnA98/JavaScript-Quiz/assets/111317228/8eecdf0e-c4c8-49af-99fa-2cb4376716e1">
+
+Each question you get wrong, it subtracts 15 seconds off of the timer before going on to the next question. Finally, after answering all the questions or if the timer runs out, you are shown your score and prompted to enter your initials. 
+<img width="1712" alt="Game-End" src="https://github.com/JohnA98/JavaScript-Quiz/assets/111317228/470001b6-60cf-48b3-b6f3-ba607f1191f0">
+
+After you input your initials, the highest score player that played in the browser has their initials and their score displayed.
+<img width="1712" alt="High-Score" src="https://github.com/JohnA98/JavaScript-Quiz/assets/111317228/c349ae7c-a00d-41b3-9d17-5b4bf81cb786">From there, the user can choose to play again.
 
 ## Credits
 
@@ -20,4 +32,4 @@ https://www.w3schools.com/js/js_quiz.asp
 
 Please refer to the LICENSE in the repo.
 
-<img width="1712" alt="High-Score" src="https://github.com/JohnA98/JavaScript-Quiz/assets/111317228/c349ae7c-a00d-41b3-9d17-5b4bf81cb786">
+
